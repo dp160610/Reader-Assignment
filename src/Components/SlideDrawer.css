@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.side-drawer {
+  height: 100%;
+  width: 70%;
+  background-color: lightblue;
+  position: fixed;
+  top: 0;
+  left: 30%;
+  width: 40%;
+  z-index: 200;
+  box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.5);
+  transform: translateX(0%);
+  transition: transform 0.3s ease-out;
+  display: none;
+  text-align: center;
+}
+.side-drawer.open {
+  transform: translateX(0);
+  display: block;
+}
+form {
+  text-align: left;
+  padding: 0px 30px;
+  margin-top: 0px;
+}

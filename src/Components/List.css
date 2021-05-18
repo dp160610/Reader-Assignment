@@ -1,0 +1,31 @@
+.win {
+  padding: 12px;
+  background-color: #ffffff;
+  margin: 20px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  border: 1px solid black;
+  position: relative;
+}
+.win img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.win div {
+  cursor: pointer;
+}
+.image-wrapper{
+    width: 30px;
+    height: 30px;
+    display: inline;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+  }
+.unorderedList {
+  list-style-type: none;
+  margin-top: 110px;
+}
