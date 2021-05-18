@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reader-Assignment/static/css/main.9398702d.chunk.css",
+    "main.js": "/Reader-Assignment/static/js/main.5c0901a4.chunk.js",
+    "main.js.map": "/Reader-Assignment/static/js/main.5c0901a4.chunk.js.map",
+    "runtime-main.js": "/Reader-Assignment/static/js/runtime-main.fd62860c.js",
+    "runtime-main.js.map": "/Reader-Assignment/static/js/runtime-main.fd62860c.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Reader-Assignment/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e518f514.chunk.js": "/Reader-Assignment/static/js/2.e518f514.chunk.js",
+    "static/js/2.e518f514.chunk.js.map": "/Reader-Assignment/static/js/2.e518f514.chunk.js.map",
+    "index.html": "/Reader-Assignment/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Reader-Assignment/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.9398702d.chunk.css.map": "/Reader-Assignment/static/css/main.9398702d.chunk.css.map",
+    "static/js/2.e518f514.chunk.js.LICENSE.txt": "/Reader-Assignment/static/js/2.e518f514.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd62860c.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e518f514.chunk.js",
+    "static/css/main.9398702d.chunk.css",
+    "static/js/main.5c0901a4.chunk.js"
+  ]
+}
